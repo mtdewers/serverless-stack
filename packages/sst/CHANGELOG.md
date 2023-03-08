@@ -1,5 +1,15 @@
 # @serverless-stack/cli2
 
+## 2.1.18
+
+### Patch Changes
+
+- [`3162e210`](https://github.com/serverless-stack/sst/commit/3162e210c2d6a48837a6e77d39a04a9f4c9a143c) Thanks [@fwang](https://github.com/fwang)! - Stack: remove non-alphanumeric characters in stack output name
+
+- [`f7500023`](https://github.com/serverless-stack/sst/commit/f75000236d83a7034e1b849e5cdc269415fa8d2a) Thanks [@fwang](https://github.com/fwang)! - [WIP] SsrSite: support resource binding in SSR functions
+
+- [#2622](https://github.com/serverless-stack/sst/pull/2622) [`fdf92236`](https://github.com/serverless-stack/sst/commit/fdf92236620be4ba33fd7db990b2edc7a601e11b) Thanks [@z0d14c](https://github.com/z0d14c)! - bug: remove shell parameter when spawning sub-processes
+
 ## 2.1.17
 
 ### Patch Changes
